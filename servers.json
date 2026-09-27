@@ -1,2 +1,4 @@
-{ "name": "EnderVanilla", "host": "endervanilla.net", "port": 19183,
-   "description": "Shop-Survival SMP", "priority": 10 }
+[
+{ "name": "EnderVanilla", "host": "endervanilla.net", "port": 19183, "description": "Shop-Survival SMP", "priority": 10 },
+{ "name": "DonutSMP", "host": "donutsmp.net", "port": 19132, "description": "Shop-Survival SMP", "priority": 10 },
+]
